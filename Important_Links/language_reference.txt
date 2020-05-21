@@ -1,0 +1,6 @@
+
+https://stackblitz.com/edit/angular-local-json?file=app%2Fapp.component.ts
+https://developer.chrome.com/webstore/i18n
+https://angular.io/guide/i18n
+
+https://github.com/bdswiss/country-language/blob/master/dataCompilation/dataSources/locales.txt
